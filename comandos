@@ -1,0 +1,7 @@
+cd  #Te direciona entre paginas e arquivos
+ls  #informa as pastas e arquivos da pasta atual
+mkdir #Cria pastas
+touch #Cria arquivos
+pwd #Informa o caminho atual
+cp  #Faz copias de arquivos/pastas
+mv  #Move arquivos ou pastas entre diretorios
