@@ -5,3 +5,4 @@ touch #Cria arquivos
 pwd #Informa o caminho atual
 cp  #Faz copias de arquivos/pastas
 mv  #Move arquivos ou pastas entre diretorios
+rm -r #apaga o diretorio e subpastas
